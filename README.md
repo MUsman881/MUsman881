@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Muhammad Usman Ali</h1>
 <p align="center">
- I'm a dedicated & efficient full-stack developer with 2+ years of hands-on experience using dotNET framework (.NET MVC, .NET Core) for backend development & Bootstrap for frontend development. However, I'd like to work on Desktop Application Development too using .NET framework to create stunning Windows forms applications.
+ I'm a dedicated & efficient full-stack developer with 4+ years of hands-on experience using dotNET framework (.NET MVC, .NET Core) for backend development & Bootstrap for frontend development. However, I'd like to work on Desktop Application Development too using .NET framework to create stunning Windows forms applications.
 <br />
   I enjoy developing engaging solutions that bring positive values to the lives of people.
 </p>
